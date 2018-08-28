@@ -16,7 +16,7 @@ Install using npm:
 npm install --save Pixelherz/ph-nextjs-utils
 ```
 
-For usage examples see section [Utilities](#Utilities) below. 
+For usage examples see section [Utilities](#utilities) below. 
 
 
 ## Utilities
