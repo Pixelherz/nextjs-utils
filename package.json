@@ -1,0 +1,28 @@
+{
+  "name": "ph-nextjs-utils",
+  "version": "1.0.0",
+  "description": "Some utils we frequently use for projects built with [Next.js](https://github.com/zeit/next.js/).",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pixelherz/ph-nextjs-utils.git"
+  },
+  "keywords": [
+    "Next.js",
+    "util"
+  ],
+  "author": "rek@pixelherz.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pixelherz/ph-nextjs-utils/issues"
+  },
+  "homepage": "https://github.com/Pixelherz/ph-nextjs-utils#readme",
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "es5",
+    "semi": false
+  }
+}
