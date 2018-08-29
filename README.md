@@ -5,9 +5,6 @@ Some utilities we frequently use for projects built with [Next.js](https://githu
 
 ## Getting Started
 
-In apps built with Next.js, the `html` element is generated on the server and is not mutable within the Next app. Thus the `lang` attribute can only be set when a request is served by the server. This tiny utility solves this problem. 
-
-
 ### Installing
 
 Install using npm:
