@@ -2,7 +2,7 @@
   "name": "@pixelherz/nextjs-utils",
   "version": "1.0.0",
   "description": "Some utils we frequently use for projects built with [Next.js](https://github.com/zeit/next.js/).",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
