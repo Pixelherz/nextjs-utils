@@ -1,6 +1,6 @@
 {
   "name": "@pixelherz/nextjs-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some utils we frequently use for projects built with [Next.js](https://github.com/zeit/next.js/).",
   "main": "dist/index.js",
   "files": [
